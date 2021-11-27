@@ -1,0 +1,76 @@
+{"level":30,"time":"2021-11-09T17:13:09.921Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Listening on 53339"}
+{"level":30,"time":"2021-11-09T17:13:19.884Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-09T17:13:19.896Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:24.034Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-09T17:13:24.034Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:28.640Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=headerLogin"}
+{"level":30,"time":"2021-11-09T17:13:28.968Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:29.359Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:29.786Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:29.978Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:30.297Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=btnSignIn"}
+{"level":30,"time":"2021-11-09T17:13:30.500Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"headerUser\"]/div"}
+{"level":30,"time":"2021-11-09T17:13:31.502Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=user-box-logout-button"}
+{"level":30,"time":"2021-11-09T17:13:31.909Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:31.910Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:13:31.910Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:31.939Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:31.939Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:13:31.939Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:33.270Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-09T17:13:33.306Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:33.821Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-09T17:13:33.821Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:38.832Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=headerLogin"}
+{"level":30,"time":"2021-11-09T17:13:39.101Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:39.454Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:39.999Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:40.203Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:40.412Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=btnSignIn"}
+{"level":30,"time":"2021-11-09T17:13:40.640Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:40.641Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:13:40.641Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:40.669Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:40.669Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:13:40.669Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:41.811Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-09T17:13:41.853Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:42.402Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-09T17:13:42.402Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:46.584Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=headerLogin"}
+{"level":30,"time":"2021-11-09T17:13:46.852Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:47.229Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:47.672Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:47.752Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:48.270Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=btnSignIn"}
+{"level":30,"time":"2021-11-09T17:13:48.500Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:48.500Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:13:48.500Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:48.526Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:48.526Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:13:48.526Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:50.072Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-09T17:13:50.105Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:13:50.732Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-09T17:13:50.732Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:13:55.078Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=headerLogin"}
+{"level":30,"time":"2021-11-09T17:13:55.309Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:55.808Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-09T17:13:56.205Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:56.402Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-09T17:13:56.642Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=btnSignIn"}
+{"level":30,"time":"2021-11-09T17:13:56.821Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"sortiment\"]/ul/li[8]/a/span"}
+{"level":30,"time":"2021-11-09T17:13:57.838Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"pageFullWidth\"]/main/div[2]/div[2]/ul/li[3]/a/span"}
+{"level":30,"time":"2021-11-09T17:14:00.086Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"pageFullWidth\"]/main/div[2]/div[2]/ul/li[1]/a/span"}
+{"level":30,"time":"2021-11-09T17:14:04.768Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"pageFullWidth\"]/main/div[2]/div[3]/div/div/div/div/div[1]/article/a/div/div[2]/img"}
+{"level":30,"time":"2021-11-09T17:14:08.457Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"productDetail\"]/div[1]/div[3]/div[3]/div/div/button"}
+{"level":30,"time":"2021-11-09T17:14:11.411Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"modalOverlay\"]/div/div/div[2]/div"}
+{"level":30,"time":"2021-11-09T17:14:13.117Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"product_1351609\"]/div[2]/div/button[1]"}
+{"level":30,"time":"2021-11-09T17:14:13.298Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"headerUser\"]/div"}
+{"level":30,"time":"2021-11-09T17:14:13.679Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=user-box-logout-button"}
+{"level":30,"time":"2021-11-09T17:14:14.481Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:14:14.481Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:14:14.481Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-09T17:14:14.653Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-09T17:14:14.653Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-09T17:14:14.653Z","pid":1496,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}

@@ -1,0 +1,38 @@
+{"level":30,"time":"2021-11-27T11:12:51.303Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Listening on 58462"}
+{"level":30,"time":"2021-11-27T11:12:52.346Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-27T11:12:52.363Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-27T11:12:52.785Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-27T11:12:52.786Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-27T11:12:56.389Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=headerLogin"}
+{"level":30,"time":"2021-11-27T11:12:56.614Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-27T11:12:56.758Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-27T11:12:57.085Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-27T11:12:57.119Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-27T11:12:57.281Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=btnSignIn"}
+{"level":30,"time":"2021-11-27T11:12:57.452Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"sortiment\"]/ul/li[8]/a/span"}
+{"level":30,"time":"2021-11-27T11:12:57.887Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"pageFullWidth\"]/main/div[2]/div[2]/ul/li[3]/a/span"}
+{"level":30,"time":"2021-11-27T11:13:02.190Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"pageFullWidth\"]/main/div[2]/div[2]/ul/li[1]/a/span"}
+{"level":30,"time":"2021-11-27T11:13:05.282Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"pageFullWidth\"]/main/div[2]/div[3]/div/div/div/div/div[1]/article/a/div/div[2]/img"}
+{"level":30,"time":"2021-11-27T11:13:08.844Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"productDetail\"]/div[1]/div[3]/div[3]/div/div/button"}
+{"level":30,"time":"2021-11-27T11:13:09.061Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"modalOverlay\"]/div/div/div[2]/div"}
+{"level":30,"time":"2021-11-27T11:13:13.171Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"product_1351609\"]/div[2]/div/button[1]"}
+================= Original suppressed error =================
+page.click: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//*[@id="product_1351609"]/div[2]/div/button[1]"
+============================================================
+    at C:\Users\toman\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\toman\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\toman\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\toman\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-27T11:13:33.941Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: xpath=//*[@id=\"headerUser\"]/div"}
+{"level":30,"time":"2021-11-27T11:13:34.224Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Page|Frame|Element resolved elementSelector: data-test=user-box-logout-button"}
+{"level":30,"time":"2021-11-27T11:13:34.558Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-27T11:13:34.558Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-27T11:13:34.559Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
+{"level":30,"time":"2021-11-27T11:13:34.580Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changed active context"}
+{"level":30,"time":"2021-11-27T11:13:34.580Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-27T11:13:34.580Z","pid":1016,"hostname":"DESKTOP-97GAKFR","msg":"Changed active page"}
