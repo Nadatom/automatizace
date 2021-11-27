@@ -12,5 +12,3 @@ Starting a browser with a page
     Click           css=#headerLogin
     Click           text="Přihlásit"
     Sleep           3
-
-    #
