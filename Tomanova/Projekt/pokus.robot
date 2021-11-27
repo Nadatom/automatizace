@@ -1,7 +1,0 @@
-*** Settings ***
-Library  RequestsLibrary
-
-
-*** Variables ***
-
-
