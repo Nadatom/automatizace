@@ -9,3 +9,4 @@ Starting a browser with a page
     New Page       https://www.rohlik.cz/
     # Otevře web a zkontroluje Title (jestli je opravdu jeji bázev Browser)
     Get Title      ==    Online supermarket Rohlik.cz — nejrychlejší doručení ve městě
+
